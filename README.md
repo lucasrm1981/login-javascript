@@ -4,7 +4,7 @@ Este é um sistema de login básico criado com HTML, CSS e JavaScript puro.
 
 ## Como executar
 
-1. Navegue até a pasta do projeto (`c:\Users\lucasrm\Documents\code`).
+1. Navegue até a pasta do projeto (`c:\Users\lucasrmonteiro1981\Documents\code`), local onde salvei meu projeto.
 2. Abra o arquivo `index.html` em um navegador web (como Chrome, Firefox ou Edge).
 3. Siga as instruções de uso abaixo.
 
